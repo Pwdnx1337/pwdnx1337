@@ -1,4 +1,4 @@
-Hello iam pwdnx / pwdnx1337
+Hello i am pwdnx / pwdnx1337
 
 <!--
 **Pwdnx1337/pwdnx1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
