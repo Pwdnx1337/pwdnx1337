@@ -7,8 +7,8 @@
 ## about me 
 
 > researcher of hidden system structures and emergent behaviors.  
-> recording the tiny inconsistencies, connecting faint signals, and modeling the unexpected.I approach familiar systems
-> as if Im seeing them for the first time curious, skeptical, and relentless. Where conventional inspection ends
+> recording the tiny inconsistencies, connecting faint signals, and modeling the unexpected.
+> I approach familiar systems as if Im seeing them for the first time curious, skeptical, and relentless. Where conventional inspection ends
 
 ## Tech Stack
 
