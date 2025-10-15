@@ -7,7 +7,7 @@
 ## about me 
 
 > researcher of hidden system structures and emergent behaviors.  
-> recording the tiny inconsistencies, connecting faint signals, and modeling the unexpected. I approach familiar systems
+> recording the tiny inconsistencies, connecting faint signals, and modeling the unexpected.I approach familiar systems
 > as if Im seeing them for the first time curious, skeptical, and relentless. Where conventional inspection ends
 
 ## Tech Stack
@@ -18,7 +18,8 @@
 <img height="28" src="https://l.top4top.io/p_35752nmsv1.jpg"  />
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![sqlmap](https://img.shields.io/badge/sqlmap-black?style=for-the-badge&logo=sqlite&logoColor=white)
-
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-4285F4?style=for-the-badge&logo=docker&logoColor=white)
 
 --- 
 ## GitHub Stats
