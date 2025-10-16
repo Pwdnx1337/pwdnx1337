@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 48px;">hello, i am pwdnx</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=808080&center=true&vCenter=true&width=500&lines=Security+researcher;Exploit+Developer;CVE+Hunter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=808080&center=true&vCenter=true&width=500&lines=Security+researcher;Exploit+Developer;WordPress+0-Day+Hunter" />
 </p>
 
 --- 
