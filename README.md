@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 48px;">hi, i am pwdnx</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=808080&center=true&vCenter=true&width=500&lines=Security+researcher;Exploit+Developer;WordPress+0-Day+Maker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=808080&center=true&vCenter=true&width=500&lines=Offensive+Security+Researcher;Exploit+Developer;WordPress+0-Day+Maker" />
 </p>
 
 --- 
@@ -24,5 +24,11 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwdnx1337&layout=compact&theme=dark&hide_border=true"/>
 </p>
+
+## socials  
+
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pwdnx1337)    
+📧 **email:** [pwdn3x@proton.me](mailto:pwdn3x@proton.me)  
+📨 **telegram:** [@n3tsploits](https://t.me/n3tsploits)  
 
 ---
