@@ -5,11 +5,6 @@
 
 --- 
 
-### About me
-
-> Security researcher focused on vulnerability discovery and exploit development. 
-> exploit mitigations, and exploit reliability engineering. I aim to publish reproducible PoC and thorough write up to improve software.
-
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
