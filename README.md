@@ -25,7 +25,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwdnx1337&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
-## socials  
-
 
 ---
