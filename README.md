@@ -27,8 +27,5 @@
 
 ## socials  
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pwdnx1337)    
-📧 **email:** [pwdn3x@proton.me](mailto:pwdn3x@proton.me)  
-📨 **telegram:** [@n3tsploits](https://t.me/n3tsploits)  
 
 ---
